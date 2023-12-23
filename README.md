@@ -24,7 +24,7 @@ que emmagatzemen la informació d'interès dels experiments (l'hora d'inici, l'h
 
 Les dades de l'experiment realitzat a la _Plaça de les Constel·lacions_:
 * [rssi_pconst.csv](https://github.com/dylanbautista/WiFi/blob/main/rssi_pconst.csv)
-* [Info](https://github.com/dylanbautista/WiFi/blob/main/info_exp_pconst.txt).
+* [Info](https://github.com/dylanbautista/WiFi/blob/main/info_exp_pconst.txt)
 
 Les dades de l'exeperiment realitzat al _Pavelló Firal de Tortosa_:
 * [rssi_pavello.csv](https://github.com/dylanbautista/WiFi/blob/main/rssi_pavello.csv)
