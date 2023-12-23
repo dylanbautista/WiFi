@@ -4,5 +4,19 @@ Aquest repositori conté la següent informació:
 * Codi del programa per recollir les observacions de l'RSSI
 * Dades recollides als dos experiments realitzats
 
+## A cerca del programa ##
+
+Els arixus que conformen el programa són els següents:
+* [Makefile](https://github.com/dylanbautista/WiFi/blob/main/Makefile)
+* [master.cc](https://github.com/dylanbautista/WiFi/blob/main/master.cc)
+* [obtain_rssi.cc](https://github.com/dylanbautista/WiFi/blob/main/obtain_rssi.cc)
+
+A l'executar el Makefile es compilaran automàticament els codis i s'hi generarà un executable anomenat _master_ que és el que s'ha
+d'executar.
+
+El programa llegirà automàticament el valor de l'RSSI i el guardarà, juntament amb la distància, en un arxiu .csv per poder processar
+les dades obtingudes posteriorment.
+
+## A cerca de les dades ##
 
 
