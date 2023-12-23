@@ -19,4 +19,16 @@ les dades obtingudes posteriorment.
 
 ## A cerca de les dades ##
 
+S'ha inclòs dos conjunts de dades corresponents als dos experiments realitzats. Juntament amb les dades, hi ha dos arxius de text
+que emmagatzemen la informació d'interès dels experiments (l'hora d'inici, l'hora d'acabament, localització...).
+
+Les dades de l'experiment realitzat a la _Plaça de les Constel·lacions_:
+*[rssi_pconst.csv](https://github.com/dylanbautista/WiFi/blob/main/rssi_pconst.csv)
+*[Info](https://github.com/dylanbautista/WiFi/blob/main/info_exp_pconst.txt).
+
+Les dades de l'exeperiment realitzat al _Pavelló Firal de Tortosa_:
+*[rssi_pavello.csv](https://github.com/dylanbautista/WiFi/blob/main/rssi_pavello.csv)
+*[Info](https://github.com/dylanbautista/WiFi/blob/main/info_exp_pavello.txt)
+
+
 
