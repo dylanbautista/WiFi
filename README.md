@@ -17,7 +17,7 @@ d'executar.
 El programa llegirà automàticament el valor de l'RSSI i el guardarà, juntament amb la distància, en un arxiu .csv per poder processar
 les dades obtingudes posteriorment.
 
-El programa només funcionarà amb ordinadors que funcionim amb el sitema operatiu MacOS (ARM).
+El programa només funcionarà amb ordinadors que tinguin el sitema operatiu MacOS (ARM).
 
 ## A cerca de les dades ##
 
